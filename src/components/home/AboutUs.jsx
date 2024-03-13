@@ -25,9 +25,28 @@ const AboutUs = () => {
               <div>
                 <div className="text-4xl font-bold text-white">Who we are</div>
                 <p className="mt-6 text-xl font-medium text-white">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                  urna nulla vitae laoreet augue. Amet feugiat est integer dolor
-                  auctor adipiscing nunc urna, sit.
+                  Welcome to TalkFill, where we bring your voice to the digital
+                  world. We are a team of experienced developers with a special
+                  focus on creating AI-powered voice-to-text applications. Our
+                  passion lies in leveraging the power of artificial
+                  intelligence to bridge the gap between spoken language and
+                  written text. Our team is composed of dedicated professionals
+                  who have honed their skills over years of experience in the
+                  field. We believe in the transformative power of technology
+                  and strive to create tools that are not only functional but
+                  also intuitive and user-friendly. At TalkFill, we understand
+                  the importance of accurate transcription in today’s fast-paced
+                  world. That’s why we’ve developed a tool that captures the
+                  context from natural spoken language and converts it into
+                  written text. From form filling to data collection, our
+                  application can be a valuable asset in various industries. We
+                  are committed to providing a tool that respects user privacy
+                  and handles data with utmost care. Your trust is important to
+                  us, and we work hard to maintain it. Join us on this journey
+                  as we continue to innovate and transform the way you interact
+                  with digital platforms. For any queries or assistance, feel
+                  free to contact us at info@talkfill.com. We’re here to help
+                  and look forward to hearing from you!
                 </p>
               </div>
             </blockquote>
