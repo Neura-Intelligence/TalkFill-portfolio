@@ -20,7 +20,7 @@ const HeroSection = () => {
         alt=""
         className="absolute inset-0 -z-10 h-full w-full object-cover"
       />
-      <div className="absolute bg-gray-800 -z-10 top-0 left-0 w-full h-screen opacity-100 bg-opacity-80" />
+      <div className="absolute bg-gray-800 -z-10 top-0 left-0 w-full h-screen opacity-100 bg-opacity-90" />
       <div className="absolute inset-x-0 top-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[-20rem]">
         <svg
           className="relative left-[calc(50%-11rem)] -z-10 h-[21.1875rem] max-w-none -translate-x-1/2 rotate-[30deg] sm:left-[calc(50%-30rem)] sm:h-[42.375rem]"
@@ -103,10 +103,8 @@ const HeroSection = () => {
               className="h-48 mx-auto"
             />
             <p className="mt-6 text-2xl font-semibold text-gray-200">
-              We’re building an AI-powered tool to fill any form by capturing
-              context from natural spoken language. Our tool is designed to be
-              intuitive and user-friendly, making it a valuable asset for
-              various industries
+              We’re building an AI-powered tool to capture structured data from
+              natural spoken language. Stay tuned.
             </p>
           </div>
         </div>
